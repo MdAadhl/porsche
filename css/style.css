@@ -1,0 +1,144 @@
+body {
+    background-image:url(../images/background5.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    margin: 0px;
+     
+}
+
+.title {
+    align-items: center;
+    width: 100px;
+}
+
+.divcard {
+    margin-right: 20px;
+    margin-left: 20px; 
+    text-align: center;
+    background-color: rgb(246, 246, 246);
+
+}
+
+.divcard_sidepage {
+    margin-right:8px;
+    margin-left: 8px;
+    margin-bottom:10px;  
+    text-align: center;
+    
+}
+
+
+#sportcard {
+    position:relative;
+    top: 30px;
+    margin-right: 10px; 
+    margin-left: 10px;
+    text-align: center;
+    background-color: rgb(246, 246, 246);
+
+}
+
+.linkcard {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+
+}
+
+.imagecard {
+    width: 410px; 
+    height: 500px;
+}
+
+
+.imagecard_sidepage {
+    width: 400px; 
+    height: 350px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+#home {
+    position: absolute;
+    top: 15px;
+    left: 60px;
+    padding: 5px;
+}
+
+.PORSCHE{
+    font-family: "EXO_2.zip", monospace, sans-serif;
+    font-style: normal;
+    font-weight: 1;
+    font-size:40px; 
+    letter-spacing: 1px;
+    font-stretch:ultra-expanded;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.headcard {
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.headfont{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 1px;
+    letter-spacing: 1px;
+}
+
+.pagecard {
+    background-color: #010328;
+    position: absolute;
+    width: 100%;
+    margin: 0%;
+    margin-left: 0%;
+    color: white; 
+    padding-top: 1px; 
+    padding-bottom: 40px;
+    
+}
+
+.sidebar_right {
+    position: absolute;
+    right: 5%;
+    color: #000;    
+
+}
+
+.sidebar_left {
+    position: absolute;
+    left: 5%;
+    color: #000;  
+
+}
+
+a:link {
+    text-decoration: none;
+    color: #000; 
+    background-color: none;
+   
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration:overline;
+    margin-inline-end: auto;
+    background-color: none;
+}
+
+.blackbackground {
+    background-image: url(../images/blackbackground.avif);
+    padding-bottom: 150px;
+}
